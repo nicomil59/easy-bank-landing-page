@@ -303,6 +303,12 @@ h1, h2, h3, h4 {
     margin-top: 1.5em;
 }
 
+.social__description {
+    display: inline-block;
+    visibility: hidden;
+    width: 0px;
+}
+
 .social__link + .social__link {
     margin-left: 0.7em;
 }
